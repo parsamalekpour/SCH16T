@@ -1,0 +1,11 @@
+SCH1600_example_stm32f103/Debug
+SCH1600_example_stm32f103/Release
+MDK-ARM/*/
+MDK-ARM/*.ini
+MDK-ARM/*.txt
+MDK-ARM/*.uvguix*
+MDK-ARM/*.scvd
+
+*.o
+*.obj
+*.map
