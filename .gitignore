@@ -9,3 +9,6 @@ MDK-ARM/*.scvd
 *.o
 *.obj
 *.map
+/PCB/History
+*.LOG
+/PCB/__Previews
